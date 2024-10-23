@@ -20,8 +20,17 @@ section{
     background: rgb(184,156,213);
     padding-bottom: 80px;
     padding-top: 80px;
-
+   
 }
+
+.chamada{
+     background: rgb(184,156,213)
+     padding-botton:80px;
+     padding-top:80px;
+     display:flex;
+     justify-content:center;
+}
+
 
 .chamada-texto{
     margin-left: 5%;
